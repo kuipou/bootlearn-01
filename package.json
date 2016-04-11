@@ -1,0 +1,14 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Lesson 01",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Christophe Rudyj",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
